@@ -1,0 +1,11 @@
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\bin\Debug\Happy Egg.exe.config
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\bin\Debug\Happy Egg.exe
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\bin\Debug\Happy Egg.pdb
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\obj\Debug\Happy Egg.csprojResolveAssemblyReference.cache
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\obj\Debug\Happy_Egg.Form1.resources
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\obj\Debug\Happy_Egg.Properties.Resources.resources
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\obj\Debug\Happy Egg.csproj.GenerateResource.Cache
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\obj\Debug\Happy Egg.exe
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\obj\Debug\Happy Egg.pdb
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\bin\Debug\Resources\background.wav
+c:\users\khuram nawaz\documents\visual studio 2013\Projects\Happy Egg\Happy Egg\bin\Debug\Resources\die.wav
